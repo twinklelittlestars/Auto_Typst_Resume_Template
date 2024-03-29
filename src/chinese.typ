@@ -3,7 +3,7 @@
 #show: template;
 
 #init(
-    name: "陈佳卉1",
+    name: "陈佳卉",
     // 插入图片功能尚未支持
     // pic_path: "/img/avatar.jpg",
     pic_path : "",
@@ -12,32 +12,27 @@
 #info(
     color: rgb(0, 0, 0),
     (
-        icon: "/img/fa/fa-home.svg",
-        link: "https://zhangsan.io/",
-        content: "https://zhangsan.io/"
-    ),
-    (
         icon: fa_github,
-        link: "https://github.com/NorthSecond",
-        content: "NorthSecond"
+        link: "https://github.com/twinklelittlestars",
+        content: "twinklelittlestars"
     ),
     (
         icon: fa_email,
-        link: "mailto:San%20Zhang<me@zahangsan.io>",
-        content: "me@zhangsan.io",
+        link: "mailto:San%20Zhang<2110694@mail.nankai.edu.cn>",
+        content: "2110694@mail.nankai.edu.cn",
     ),
     (
         icon: fa_phone,
-        link: "tel:+86 133 3333 3333",
-        content: "+86 133 3333 3333",
+        link: "tel:+86 153 9121 1963",
+        content: "+86 153 9121 1963",
     ),
 )
 
 #resume_section("教育经历")
 
 #resume_item(
-  "家里蹲大学·计算机学院",
-  "硕士生 | 计算机技术",
+  "南开大学·计算机学院",
+  "本科生 | 计算机科学与技术",
   "泵饶叙史掷陋谣邪苦豫锣旧技贸刃蛭！天绳顺。",
   "2024.09 -- 2027.06（预计）"
 )
