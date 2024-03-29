@@ -40,7 +40,6 @@
 #resume_section([比赛获奖及比赛经历])
 
 #resume_desc("人工智能挑战杯", "我所在的团队开发的基于图数据库的Python代码提示器在人工智能挑战杯比赛中获得优秀奖")
-#resume_desc("参加数学竞赛")
 #resume_desc("参加大英赛")
 
 
